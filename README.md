@@ -21,3 +21,7 @@ This is a simple Python-based tool to scan web applications for basic vulnerabil
 
 Install required libraries using:
 pip install requests beautifulsoup4
+
+#output:
+![Screenshot 2025-07-03 200703](https://github.com/user-attachments/assets/6b194a7d-6fb9-4057-8294-663a7561b933)
+
